@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.559,C:\Users\Georg\Documents\Embarcadero\Studio\Projects\Unit1.fmx=E:\Spiele\Zubehoer\Edain Installer Rewrite\uMain.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.029,=C:\Users\Georg\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,=C:\Users\Georg\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,C:\Users\Georg\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Spiele\Zubehoer\Edain Installer Rewrite\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.626,=C:\Users\Georg\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,C:\Users\Georg\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Spiele\Zubehoer\Edain Installer Rewrite\EdainInstaller.dproj</Transaction>
+    <Transaction>2016.12.06 21:33:59.082,=E:\Spiele\Zubehoer\Edain Installer Rewrite\Unit1.pas</Transaction>
+    <Transaction>2016.12.06 21:37:52.330,=E:\Spiele\Zubehoer\Edain Installer Rewrite\Unit1.pas</Transaction>
+    <Transaction>2016.12.06 21:40:08.389,E:\Spiele\Zubehoer\Edain Installer Rewrite\uAbout.pas=E:\Spiele\Zubehoer\Edain Installer Rewrite\Unit1.pas</Transaction>
+    <Transaction>2016.12.06 21:40:08.389,E:\Spiele\Zubehoer\Edain Installer Rewrite\uAbout.fmx=E:\Spiele\Zubehoer\Edain Installer Rewrite\Unit1.fmx</Transaction>
+  </Transactions>
+</BorlandProject>

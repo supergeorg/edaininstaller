@@ -1,0 +1,14 @@
+inherited fMain_Windows: TfMain_Windows
+  Caption = 'fMain'
+  DesignerMasterStyle = 0
+  inherited iBackground: TImage
+    MultiResBitmap.Height = 465
+    MultiResBitmap.Width = 620
+    Enabled = False
+    Opacity = 0.500000000000000000
+    Scale.X = 600.000000000000000000
+    Scale.Y = 465.000000000000000000
+    Size.Width = 1.038333415985107000
+    Size.Height = 1.032258033752441000
+  end
+end
